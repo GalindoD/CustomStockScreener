@@ -1,4 +1,6 @@
-This note serves as a guide and notes for the project:
+The purpose of this repo is to build a Stock Screener for Good Companies that have good fundamentals, with a value investing approach. Then Valuating these companies and finding underpriced ones. Finally, using simple trading indicators to singnal when to enter a position. 
+
+The following serves as a guide and notes for the project:
 
 First: Get a list of good companies: (all the info for 10 years ideally, parameters from Rule 1 Investing and One up on Wall Street)
 The code should screen through all US stocks, and get a list of good companies based on key financial metrics:
