@@ -1,6 +1,12 @@
 # Overview
 The purpose of this repo is to build a Stock Screener for Good Companies that have good fundamentals, with a value investing approach. Then Valuating these companies and finding underpriced ones. Finally, using simple trading indicators to singnal when to enter a position. 
 
+## Valuation ipynb
+This notebook calculates key metrics of a particular stock. It fetches information online and creates custom Datafrems to aid in the investing decisions. The four main information tables fetches are the Income Statement, Balance Sheet, Cash Flow Statement and the historic valuation metrics.
+Then, two tables are calculated and a suggested purchase price. 
+
+
+
 ## The following serves as a guide and notes for the project:
 First: Get a list of good companies: (all the info for 10 years ideally, parameters from Rule 1 Investing and One up on Wall Street)
 The code should screen through all US stocks, and get a list of good companies based on key financial metrics:
