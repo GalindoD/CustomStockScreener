@@ -5,6 +5,15 @@ The purpose of this repo is to build a Stock Screener for Good Companies that ha
 This notebook calculates key metrics of a particular stock. It fetches information online and creates custom Datafrems to aid in the investing decisions. The four main information tables fetches are the Income Statement, Balance Sheet, Cash Flow Statement and the historic valuation metrics.
 Then, two tables are calculated and a suggested purchase price. 
 
+### Examples of Dataframes:
+![Example of online fetched Dataframe](https://github.com/GalindoD/CustomStockScreener/blob/7228543598ada60c7fa7abbe0f5c68ce22148e8b/Fetched%20DF2.png)
+
+![Example of calculated Dataframe](https://github.com/GalindoD/CustomStockScreener/blob/7228543598ada60c7fa7abbe0f5c68ce22148e8b/ROIC%20DF.png)
+
+![Example of another calculated Dataframe](https://github.com/GalindoD/CustomStockScreener/blob/7228543598ada60c7fa7abbe0f5c68ce22148e8b/GrowthDF.png)
+
+### Example of calculated Purchase Price
+![Example of Output Suggeted Buy Price](https://github.com/GalindoD/CustomStockScreener/blob/7228543598ada60c7fa7abbe0f5c68ce22148e8b/BuyPrice.png)
 
 
 ## The following serves as a guide and notes for the project:
