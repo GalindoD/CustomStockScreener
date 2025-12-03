@@ -2,7 +2,7 @@
 The purpose of this repo is to build a Stock Screener for Good Companies that have good fundamentals, with a value investing approach. Then Valuating these companies and finding underpriced ones. Finally, using simple trading indicators to singnal when to enter a position. 
 
 ## Valuation ipynb
-This notebook calculates key metrics of a particular stock. It fetches information online and creates custom Datafrems to aid in the investing decisions. The four main information tables fetches are the Income Statement, Balance Sheet, Cash Flow Statement and the historic valuation metrics.
+This notebook calculates key metrics of a particular stock. It fetches information online and creates custom Dataframes to aid in the investing decisions. The four main information tables fetches are the Income Statement, Balance Sheet, Cash Flow Statement and the historic valuation metrics.
 Then, two tables are calculated and a suggested purchase price. 
 
 ### Examples of Dataframes:
@@ -15,6 +15,8 @@ Then, two tables are calculated and a suggested purchase price.
 ### Example of calculated Purchase Price
 ![Example of Output Suggeted Buy Price](https://github.com/GalindoD/CustomStockScreener/blob/7228543598ada60c7fa7abbe0f5c68ce22148e8b/BuyPrice.png)
 
+### Example of Income Statement Chart
+![Example of Output Chart for the Income Statement information](https://github.com/GalindoD/CustomStockScreener/blob/b09e42b9a6cef7efd2f452f0ef64caa3af05f477/Income%20St%20Chart.png)
 
 ## The following serves as a guide and notes for the project:
 First: Get a list of good companies: (all the info for 10 years ideally, parameters from Rule 1 Investing and One up on Wall Street)
